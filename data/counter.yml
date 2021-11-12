@@ -1,0 +1,14 @@
+enable : true
+heading : "THE PROOF IS IN THE NUMBERS!"
+counter_item: 
+  - title: "Deliveries Completed"
+    number: "250"
+
+  - title: "Kilometers covered"
+    number: "522"
+
+  - title: "Cups of coffee"
+    number: "319"
+
+  - title: "Telephone Talks"
+    number: "775"
