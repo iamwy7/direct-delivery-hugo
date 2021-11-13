@@ -1,16 +1,23 @@
 enable  : true
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/team-member-one.jpg
-    name        : PABLO ESCOBAR
-    designation : Creative Director
+  - image       : images/team/renan.jpg
+    name        : RENAN AUGUSTO
+    designation : CEO
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+  
+  - image       : images/team/wy7.jpg
+    name        : WYTHOR BAZAN
+    designation : CTO | Co-Founder
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-two.jpg
     name        : MONTINO RIAU
-    designation : Product Manager
+    designation : Financial Manager
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
@@ -22,23 +29,51 @@ members  :
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-four.jpg
-    name        : HONGMAN CHIOA
-    designation : UX Researcher
+  - image       : images/team/paulo.jpg
+    name        : PAULO ANTARES
+    designation : Support Analyst 
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/maria.jpg
+    name        : MARIA MONTE NEGRO
+    designation : Support Manger
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/team-member-one.jpg
+    name        : HENRY BLACKBURN
+    designation : Support Analyst
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/nicko.jpg
+    name        : NICKO NAKAMURA
+    designation : Drone Specialist
+    medium      : https://www.medium.com/
+    linkedIn    : https://www.linkedin.com/
+    instagram   : https://www.instagram.com/
+
+  - image       : images/team/eduarda.jpg
+    name        : EDUARDA NEUMANN
+    designation : Drone Mechanic
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/team-member-five.jpg
     name        : SANTIO ANDRESS
-    designation : Content Researcher
+    designation : Drone Mechanic
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-six.jpg
-    name        : RAMESH PAUL
-    designation : Creative Designer
+  - image       : images/team/team-member-four.jpg
+    name        : HONGMAN CHIOA
+    designation : UX Researcher
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
