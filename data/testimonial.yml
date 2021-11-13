@@ -26,9 +26,9 @@ testimonial_item :
     quote : > 
             "Trust us we looked for a very long time and wasted thousands of dollars testing other teams, freelancers, and outsource companies." 
 
-  - thumb : "images/testimonial/user-thumb-five.jpg"
-    name  : "Orino Monteno"
-    company_position: "CEO, Axion"
+  - thumb : "images/testimonial/elisa.jpg"
+    name  : "Elisa Monteno"
+    company_position: "PM, Mercado Livre"
     quote : > 
             "Roxo products have allowed us to deliver better support to all our clients. The agility with which we can implement new features and workflows is a key element." 
 
